@@ -17,3 +17,5 @@ a=a-b
 printf("\nAfter swap a=%d b=%d",a,b);    
 
 return 0;  
+
+}
